@@ -1,6 +1,5 @@
 # Reactjs-Project---Add-Products
-Reactjs Project - Add Products
-# PROJECT BLAH BLAH
+This project is an expanded example of pages for adding more products (Next) and increasing them in the same page e-commerce sites.
 
 ## Requirements
 
