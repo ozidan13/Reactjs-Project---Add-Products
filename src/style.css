@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    margin-top: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    padding-left: 10px;
+}
+
+.cardParent {
+    margin-top: 17px;
+}
+
+.card {
+    transition: .5s;
+}
+
+.card:hover {
+    cursor: pointer;
+    border: 1px solid #6e8a24;
+}
+
+.btn {
+    color: #fff !important;
+    background-color: #6e8a24;
+    transition: .5s ease-out;
+}
+
+.btn:active {
+    outline: none !important;
+    border: 0 !important;
+}
+
+.btn:hover {
+    background-color: #425803;
+}
+.navbar h2 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.card-body {
+    text-align: center;
+    font-family: 'Rakkas', cursive;
+}
